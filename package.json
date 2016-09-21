@@ -1,0 +1,23 @@
+{
+  "name": "git-client",
+  "version": "0.0.1",
+  "description": "Node cliente for git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayralencar/git-client.git"
+  },
+  "keywords": [
+    "git",
+    "client"
+  ],
+  "author": "Jayr Alencar @jayralencar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayralencar/git-client/issues"
+  },
+  "homepage": "https://github.com/jayralencar/git-client#readme"
+}
